@@ -54,6 +54,7 @@ table {
 *****************************************************************/
 /*applies to the whole body of the document*/
 body {
+    max-width: 800px;
     font-family: 'Avenir', sans-serif;
     background-color: #ffe7d4;
     color: #130707;
