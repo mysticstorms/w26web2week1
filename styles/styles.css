@@ -67,3 +67,35 @@ h1 {
     font-weight: bold;
     margin-bottom: 20px;
 }
+
+section img{
+    width: 20%;
+    float: left;
+    margin: 0 15px 15px 0;
+}
+
+nav a {
+    color:azure;
+    font-size: 1.2em; /*em's are relative to the parent element*/
+    text-decoration: none; /*removes underline from links*/
+}
+
+nav a:hover {
+    color:aquamarine
+}
+
+nav a:active {
+    color:rgb(43, 171, 226)
+}
+
+#current{
+    background-color:bisque;
+    color: lightpink;
+    font-weight: bold;
+}
+
+section{
+    margin:20px
+    border: 2px solid black;
+    padding: 15px;
+}
