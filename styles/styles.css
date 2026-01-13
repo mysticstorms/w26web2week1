@@ -47,3 +47,15 @@ table {
 	border-spacing: 0;
 }
 /* End of reset.css */
+
+
+/*****************************************************************
+                    Main Styles
+*****************************************************************/
+
+body {
+    font-family: 'Avenir', sans-serif;
+    background-color: #ffe7d4;
+    color: #130707;
+    padding: 20px;
+}
